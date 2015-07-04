@@ -1,6 +1,6 @@
 **Team members**
 
-![Charles Cai](https://avatars2.githubusercontent.com/u/127682?v=3&s=460)  | ![Des Holmes](https://avatars3.githubusercontent.com/u/1517766?v=3&s=100)
+![Charles Cai](https://avatars2.githubusercontent.com/u/127682?v=3&s=100)  | ![Des Holmes](https://avatars3.githubusercontent.com/u/1517766?v=3&s=100)
 :--- | :--- | :---
 **Charles Cai** | **Ben Bishop** 
 [@caidong](https://twitter.com/caidong) | [@BenBish0p](https://twitter.com/BenBish0p) 
