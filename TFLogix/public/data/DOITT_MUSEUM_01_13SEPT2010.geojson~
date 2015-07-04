@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Acton Vale",
+  "TEL": "[\"snacks\",\"sparks\",\"begins\"]", "URL": "18°", "ADRESS1": "2",
+  "ADDRESS2": null, "CITY": "London", "ZIP": "" }, "geometry": { "type":
+    "Point", "coordinates": [-0.1275,51.5072] } },
+
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Earl’s Court",
+  "TEL": "[\"begin\",\"good\",\"shorts\"]", "URL": "18°", "ADRESS1": "1",
+  "ADDRESS2": null, "CITY": "London", "ZIP": "" }, "geometry": { "type":
+    "Point", "coordinates": [-0.1275,51.4078] } }
+
+,
+
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Charing Cross Hospital",
+  "TEL": "[\"just\",\"flown\",\"storm\"]", "URL": "18°", "ADRESS1": "3",
+  "ADDRESS2": null, "CITY": "London", "ZIP": "" }, "geometry": { "type":
+    "Point", "coordinates": [-0.1275,51.5172] } }
+
+,
+
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Hammersmith",
+  "TEL": "[\"keys\",\"preoccupied\",\"wages\"]", "URL": "18°", "ADRESS1": "2",
+  "ADDRESS2": null, "CITY": "London", "ZIP": "" }, "geometry": { "type":
+    "Point", "coordinates": [-0.328,51.793] } }
+
+,
+
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Shepherd's Bush",
+  "TEL": "[\"paying\",\"fishery\",\"edit\"]", "URL": "18°", "ADRESS1": "2",
+  "ADDRESS2": null, "CITY": "London", "ZIP": "" }, "geometry": { "type":
+    "Point", "coordinates": [-0.1295,51.3172] } }
+
+]
+
+}

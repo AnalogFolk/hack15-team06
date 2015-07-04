@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "TFLogix": {
+      "applicationId": "TIQjaXWHYNgnUIXOGtOl42PQ01tF8qQAlxmJcbeC",
+      "masterKey": "ZZ4T2oYDe1Eyv3MxBeUi82KJTA1RlckE4I9N9AFY"
+    },
+    "_default": {
+      "link": "TFLogix"
+    }
+  }
+}

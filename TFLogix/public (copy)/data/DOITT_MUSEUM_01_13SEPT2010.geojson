@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+
+"features": [
+{ "type": "Feature", "id": 129, "properties": { "NAME": "Center For Jewish History", "TEL": "(212) 294-8301", "URL": "http:\/\/www.cjh.org", "ADRESS1": "15 W. 16th St.", "ADDRESS2": null, "CITY": "New York", "ZIP": 10011.0 }, "geometry": { "type": "Point", "coordinates": [51.505, -0.09] } }
+]
+}
