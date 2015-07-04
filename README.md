@@ -11,7 +11,15 @@ Homepage | [http://socialogix.biz/](http://socialogix.biz/) |  |
 
 A ground breaking end-to-end IoT solution to help London Commuters get better informed traffic information, at the right time, at the right place, with the right contents.
 
-[http://tflogix.parseapp.com] 
+*** Technology used
+- Intel Edison
+- Bluetooth, BLE (Bluetooth Low Energy)
+- Google Uri-beacon
+- Grove sensors: tempoerature, noise, air quality
+
+[TFLogix Demo](http://tflogix.parseapp.com) 
+
+_[AnalogFolk](http://make.analogfolk.com) #AFHackFestival 2015_
 
 **Why not tell us more about your team**
 
