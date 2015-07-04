@@ -9,7 +9,7 @@ Homepage | [http://socialogix.biz/](http://socialogix.biz/) |  |
 
 **TFLoigx - IoT Solution for London Commuters**
 
-A ground breaking end-to-end solution to help London Commuters get better informed our the traffic information, at the right time, the right place, the right context.
+A ground breaking end-to-end IoT solution to help London Commuters get better informed traffic information, at the right time, at the right place, with the right contents.
 
 **Why not tell us more about your team**
 
